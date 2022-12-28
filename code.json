@@ -1,0 +1,129 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-7114471897201453/6286677955",
+        "InterstitialAdmob": "ca-app-pub-7114471897201453/2269457615",
+        "NativeAdmob": "ca-app-pub-7114471897201453/4207309521",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "",
+
+		"maxBanner": "f7a5525108c00ac0A",
+		"maxInterstitial": "5fa0efbeea673f05A",
+		"maxNative": "bf83265395b54ba8A",
+		
+		"ironsource_appKey": "",
+		
+		"unity_game_id": "5095165",
+		"unity_test": false,
+		"unity_banner": "Banner_Android",
+		"unity_interstitial": "Interstitial_Android",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "",
+        "ImageBannerURL" : ""
+		
+      },
+
+    "items": [
+      {
+        "title": "BUS SIMULATOR",
+        "image": "https://i1.silvergames.com/screenshots/bus-simulator/t/3_gameplay-bus-city.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Bus Simulator is a driving game where you have to control a bus and you can play it online",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "BUS SIMULATOR",
+        "image": "https://i1.silvergames.com/screenshots/bus-simulator/t/3_gameplay-bus-city.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Bus Simulator is a driving game where you have to control a bus and you can play it online",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "BUS SIMULATOR",
+        "image": "https://i1.silvergames.com/screenshots/bus-simulator/t/3_gameplay-bus-city.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Bus Simulator is a driving game where you have to control a bus and you can play it online",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "BUS SIMULATOR",
+        "image": "https://i1.silvergames.com/screenshots/bus-simulator/t/3_gameplay-bus-city.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Bus Simulator is a driving game where you have to control a bus and you can play it online",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+     {
+        "title": "BUS SIMULATOR",
+        "image": "https://i1.silvergames.com/screenshots/bus-simulator/t/3_gameplay-bus-city.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Bus Simulator is a driving game where you have to control a bus and you can play it online",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "BUS SIMULATOR",
+        "image": "https://i1.silvergames.com/screenshots/bus-simulator/t/3_gameplay-bus-city.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Bus Simulator is a driving game where you have to control a bus and you can play it online",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "BUS SIMULATOR",
+        "image": "https://i1.silvergames.com/screenshots/bus-simulator/t/3_gameplay-bus-city.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Bus Simulator is a driving game where you have to control a bus and you can play it online",
+        "isNative": false,
+		"background": "#FFFFFF"
+      }
+    ]
+
+  }
+}
